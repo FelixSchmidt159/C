@@ -1,0 +1,8 @@
+programm teil.dat schritt.dat typ bezeichnung
+
+Gib eine Bestandteilliste des Teils in die Datei bestandteil.dat.  Es
+sollen nicht nur Einzelteile sondern auch zusammengesetzte
+Bestandteile ausgegeben werden.  Jeder Teil soll nur einmal mit
+Anzahl/Menge versehen ausgegeben werden.  Ordne die Teile nach Typ und
+Bezeichnung.
+
